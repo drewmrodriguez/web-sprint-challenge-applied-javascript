@@ -28,13 +28,23 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is the DOM?
 
+    Stands for Document Object Model. The DOM is a way to interface with the html on a webpage.
+
 2. What is an event?
+
+    An event is the result of a user interaction of an element on a webpage that results in triggering a javascript function. For example: a scroll, a mouseover, or a click.
 
 3. What is an event listener?
 
+    An event listener is something that specifically "listens" for the action itself in which triggers a javascript function. Event Listeners are attatched to specific elements to manipulate the webage. For Example, like a mouseover event that changes a photo when hovering over the element.
+
 4. Why would we convert a NodeList into an Array?
 
+    A NodeList allows you to access all HTML elements it returns. You can use a forEach loop to iterate through the specific elements.
+
 5. What is a component?
+
+    Components are a function that lets you add HTML into the DOM, which allows you to not repeat yourself and use this function as much as need be.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
